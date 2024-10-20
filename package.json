@@ -1,0 +1,31 @@
+{
+  "name": "com.dreamcode.mobile.dynamic-icon",
+  "displayName": "Dynamic Mobile Icon",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "description": "The best way to introduce dynamic app icons",
+  "keywords": [
+    "unity",
+    "icon",
+    "native"
+  ],
+  "changelogUrl": "https://github.com/dreamcodestudio/com.dreamcode.mobile.dynamic-icon/blob/main/CHANGELOG.md",
+  "documentationUrl": "https://github.com/dreamcodestudio/com.dreamcode.mobile.dynamic-icon",
+  "author": {
+    "name": "DreamCode",
+    "email": "dreamcodestudio@yandex.com",
+    "url": "https://t.me/dream_code_studio"
+  },
+  "samples": [
+    {
+      "displayName": "Share Text",
+      "description": "Contains sample of sharing text",
+      "path": "Samples~/share-text"
+    },
+    {
+      "displayName": "Share Binary Content",
+      "description": "Contains sample of sharing binary content",
+      "path": "Samples~/share-binary-content"
+    }
+  ]
+}
