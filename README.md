@@ -1,6 +1,8 @@
 # 🎯 What is Dynamic Mobile Icon package?
 The best way to dynamically changing app icon.
 
+![d-i](https://github.com/user-attachments/assets/1027552b-be53-41b6-a344-922a8a42ec74)
+
 # 💻 Usage
 ```csharp
 using DreamCode.DynamicIcon;
