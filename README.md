@@ -89,6 +89,12 @@ Add `DynamicIcon.androidlib` in `Assets > Plugins > Android`:
 
 ### iOS Setup
 
+Setup Info.plist:
+Add `Icon files (iOS 5)` to the Information Property List
+Add `CFBundleAlternateIcons` as a dictionary, it is used for alternative icons
+
+Here's an example:
+
 # ✨ Showcase
 Todo
 
