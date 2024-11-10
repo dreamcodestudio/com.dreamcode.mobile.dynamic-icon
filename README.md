@@ -95,6 +95,9 @@ Add `CFBundleAlternateIcons` as a dictionary, it is used for alternative icons
 
 Here's an example:
 
+<img width="507" alt="Screenshot 2024-11-10 at 21 12 54" src="https://github.com/user-attachments/assets/32327b86-bfee-47f5-b23b-3711bf32b8f9">
+<img width="264" alt="Screenshot 2024-11-10 at 21 13 28" src="https://github.com/user-attachments/assets/19b8379c-17fe-4641-93dd-7424d31a6141">
+
 # ✨ Showcase
 Todo
 
