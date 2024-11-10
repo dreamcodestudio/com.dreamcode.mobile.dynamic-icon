@@ -99,7 +99,8 @@ Here's an example:
 <img width="264" alt="Screenshot 2024-11-10 at 21 13 28" src="https://github.com/user-attachments/assets/19b8379c-17fe-4641-93dd-7424d31a6141">
 
 # ✨ Showcase
-Todo
+
+https://github.com/user-attachments/assets/52071061-c55c-4564-b880-29efab6a1749
 
 # ✉️ Contact
 [Telegram](https://t.me/dreamcestudio)
