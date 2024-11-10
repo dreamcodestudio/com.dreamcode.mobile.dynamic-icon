@@ -84,6 +84,9 @@ Here's an example:
 
 Add `DynamicIcon.androidlib` in `Assets > Plugins > Android`:
 
+![explorer_3gBZbWaVpR](https://github.com/user-attachments/assets/f199c52e-bad3-4394-a821-81458edc381b)
+![explorer_g2KYTgleza](https://github.com/user-attachments/assets/4726eb40-14ba-4131-805f-35012ca218ca)
+
 ### iOS Setup
 
 # ✨ Showcase
